@@ -1,4 +1,9 @@
-        Linux kernel release 4.x <http://kernel.org/>
+Kernel patches found on different places on the web to add proper support for the asus rog laptops.
+Adds hotkey support (Brightness up/down, Keyboard Backlit up/down, Display off)
+      
+      --------------
+      
+      Linux kernel release 4.x <http://kernel.org/>
 
 These are the release notes for Linux version 4.  Read them carefully,
 as they tell you what this is all about, explain how to install the
